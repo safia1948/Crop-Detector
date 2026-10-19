@@ -1,0 +1,11 @@
+{
+  "cotton_healthy":      { "crop": "cotton",    "disease": -1 },
+  "cotton_leaf_curl":    { "crop": "cotton",    "disease": 0 },
+  "cotton_boll_rot":     { "crop": "cotton",    "disease": 1 },
+  "wheat_healthy":       { "crop": "wheat",     "disease": -1 },
+  "wheat_leaf_rust":     { "crop": "wheat",     "disease": 0 },
+  "wheat_stem_rust":     { "crop": "wheat",     "disease": 1 },
+  "maize_healthy":       { "crop": "maize",     "disease": -1 },
+  "maize_common_rust":   { "crop": "maize",     "disease": 0 },
+  "maize_leaf_blight":   { "crop": "maize",     "disease": 1 }
+}
